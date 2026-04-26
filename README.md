@@ -58,7 +58,7 @@ The network is based on a hierarchical design (Core, Distribution, Access) to op
 
 ## 📂 Repository Content
 *   `projet cisco`: Source file `.pkt` (Cisco Packet Tracer).
-*   `/docs`: Detailed PDF project documentation.
+*   `/doc`: Detailed PDF project documentation.
 *   `/images`: Screenshots of the topology and connectivity tests.
 
 ---
